@@ -88,5 +88,3 @@ A test runner plugin integrated with tmux, letting you run tests at various scop
 - Swapfiles are disabled.
 - Line numbers are enabled.
 - Plugins are managed through lazy.nvim with automatic installation on startup.
-
-Feel free to customize further or reach out if you want help adding usage instructions or troubleshooting!
