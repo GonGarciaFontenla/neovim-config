@@ -1,4 +1,4 @@
-# Neovim Configuration - Part 1
+# Neovim Configuration 
 
 This repository contains my personal Neovim configuration, designed to improve productivity and streamline coding.
 
